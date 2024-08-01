@@ -1,0 +1,1 @@
+# This is a repository about a game whom name is "Select a number".In this game the computer selects a number according to its choice and we have to guess it.
